@@ -32,9 +32,8 @@ $(document).ready(function() {
       strings: [
         "Student",
         "Web-Developer",
-        "Technical-content-writer",
-        "UI Designer",
-        "Competitive Programmer"
+        "Programmer",
+        "Tech Enthusiast"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -45,9 +44,8 @@ $(document).ready(function() {
       strings: [
         "Student",
         "Web-Developer",
-        "Technical-content-writer",
-        "UI Designer",
-        "Competitive Programmer"
+        "Programmer",
+        "Tech Enthusiast"
       ],
       typeSpeed: 100,
       backSpeed: 60,
